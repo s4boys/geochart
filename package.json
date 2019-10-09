@@ -1,0 +1,19 @@
+{
+  "name": "geochart",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s4boys/geochart.git"
+  },
+  "author": "Felix Schick, Nicolas Mohr",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/s4boys/geochart/issues"
+  },
+  "homepage": "https://github.com/s4boys/geochart#readme"
+}
